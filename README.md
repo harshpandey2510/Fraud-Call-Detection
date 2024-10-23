@@ -86,4 +86,3 @@ streamlit run main.py
 **Libraries** :  Speech Recognition, Streamlit, Pandas, Numpy, NLTK
 
 
-# Fraud-Call-Detection
