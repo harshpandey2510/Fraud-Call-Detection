@@ -83,6 +83,8 @@ streamlit run main.py
 **Language** : Python
 
 
-**Libraries** :  Speech Recognition, Streamlit, Pandas, Numpy, NLTK
+**Libraries** :  Speech Recognition, Streamlit, Pandas, Numpy, nltk
+
+**Algorithm Used** : Naive bayes, Natural Language Processing
 
 
